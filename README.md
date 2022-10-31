@@ -31,7 +31,7 @@ $ pip3 install -r requirements.txt
 
 <br />
 
-> `Set Up Database`
+> 👉 `Set Up Database`
 
 ```bash
 $ python manage.py makemigrations
@@ -40,20 +40,22 @@ $ python manage.py migrate
 
 <br />
 
-> `Start` the app
+> 👉 `Start` the app
 
 ```bash
 $ python manage.py runserver
 ```
 
+<br />
+
 At this point, the Dynamic DataTable UI is up & running:
 
 - **Book** Model - `http://127.0.0.1:8000/datatb/books/`. 
-- **City** Model - `http://127.0.0.1:8000/datatb/books/`. 
+- **City** Model - `http://127.0.0.1:8000/datatb/cities/`. 
 
 <br />
 
-![Watch the video](https://user-images.githubusercontent.com/51070104/198944457-1ca45c93-2290-484d-ac27-fb77188e61d3.jpg)
+![Django Dynamic DataTables - Splash Screen.](https://user-images.githubusercontent.com/51070104/198944457-1ca45c93-2290-484d-ac27-fb77188e61d3.jpg)
 
 <br />
 
