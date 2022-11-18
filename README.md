@@ -2,9 +2,13 @@
 
 This project is a free sample that implements [Django Dynamic DataTables](https://github.com/app-generator/django-dynamic-datatb) from scratch. 
 
-> `Video Presentation` (below)
+<br />
 
-[![Watch the video](https://user-images.githubusercontent.com/51070104/198944457-1ca45c93-2290-484d-ac27-fb77188e61d3.jpg)](https://youtu.be/LlcpVfvIbMU)
+## [Black Friday](https://appseed.us/discounts/) - `75%OFF`
+
+> The campaign is active until `30.NOV` and applies to all products and licenses.
+
+[![AppSeed - Black Friday 2022 Campaign, 75% OFF Discount (all products).](https://user-images.githubusercontent.com/51070104/201829599-9fe6bdd7-3f19-46f3-9115-962eeb13bf29.jpg)](https://appseed.us/discounts/)
 
 <br />
 
