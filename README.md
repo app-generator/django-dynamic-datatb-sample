@@ -1,4 +1,4 @@
-# [Django Dynamic DT](https://github.com/app-generator/django-dynamic-datatb) `Sample`
+# [Django Dynamic DT](https://app-generator.dev/docs/developer-tools/dynamic-django/datatables.html) `Sample`
 
 This project is a free sample that implements [Django Dynamic DataTables](https://github.com/app-generator/django-dynamic-datatb) from scratch. 
 
